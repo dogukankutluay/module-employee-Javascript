@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "name": "d",
+      "departmant": "bilişim değişti1",
+      "salary": "4000",
+      "id": 5
+    },
+    {
+      "name": "DOĞUKAN",
+      "departmant": "bilişim",
+      "salary": "4000",
+      "id": 6
+    }
+  ]
+}
